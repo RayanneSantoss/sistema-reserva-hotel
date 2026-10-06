@@ -66,14 +66,14 @@ sistema-reserva-hotel/
 │
 ├── backend/
 │   ├── controllers/
-│   │   ├── hospedesController.js
-│   │   ├── quartosController.js
-│   │   └── reservasController.js
+│   │   ├── hospedesControllers.js
+│   │   ├── quartosControllers.js
+│   │   └── reservasControllers.js
 │   │
 │   ├── routes/
-│   │   ├── hospedes.js
-│   │   ├── quartos.js
-│   │   └── reservas.js
+│   │   ├── hospedesRouter.js
+│   │   ├── quartosRouter.js
+│   │   └── reservasRouter.js
 │   │
 │   ├── validations/
 │   │   ├── hospedesValidacao.js
